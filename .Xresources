@@ -20,3 +20,6 @@
 *color15:   #e8e9ca
 
 *font: xft:monospace:size=10
+URxvt.scrollBar:    false
+URxvt*.transparent: true
+URxvt*.shading: 25
